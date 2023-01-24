@@ -1,0 +1,18 @@
+/* Everything in the body should be centered */
+body {
+    text-align: center;
+}
+
+/* Make the background assets/pompombg.webp
+ * and scale the image to fit nicely
+ * */
+body {
+    background-image: url(assets/pompombg.webp);
+    background-size: 100%;
+    /* center */
+    background-position: center;
+    /* dont repeat */
+    background-repeat: no-repeat;
+    /* make the background color black */
+    background-color: #FFFBCF;
+}
